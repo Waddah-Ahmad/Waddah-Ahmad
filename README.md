@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waddah-ahmad" alt="waddah-ahmad" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, Azure,**
+- 🌱 I’m currently learning **Azure DevOps,**
 
 - 💬 Ask me about **DevOps practices**
 
